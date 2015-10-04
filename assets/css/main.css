@@ -1,0 +1,31 @@
+body,
+html {
+  display: block;
+}
+html {
+  background: url("../img/bg.jpg") bottom no-repeat #fff;
+  background-size: contain;
+  min-height: 100%;
+}
+.social-bar > div {
+  margin-top: 50px;
+}
+.social-bar i.fa {
+  font-size: 50px;
+}
+.social-bar i.fa.fa-envelope {
+  color: #da137a;
+}
+.social-bar i.fa.fa-facebook {
+  color: #3b5998;
+}
+.social-bar i.fa.fa-twitter {
+  color: #00aced;
+}
+.social-bar i.fa.fa-whatsapp {
+  color: #64D448;
+}
+.social-bar span {
+  color: #aaa;
+  display: block;
+}
